@@ -52,7 +52,7 @@ Check out some of the stunning visualizations we've created:
 
 ## 🤝 How to Contribute
 
-We welcome contributions from the community! Whether you're interested in adding new features, improving existing ones, or fixing bugs, your help is appreciated. Here's how you can get started:
+I welcome contributions from the community! Whether you're interested in adding new features, improving existing ones, or fixing bugs, your help is appreciated. Here's how you can get started:
 
 1. **Fork the Repository**: Click the 'Fork' button to create your own copy of the repository.
 2. **Clone the Repository**: Clone your forked repository to your local machine.
@@ -70,7 +70,7 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 Have questions or suggestions? Feel free to reach out to us!
 
 - **Email**: [atimothy.dev@gmail.com]
-- **LinkedIn**: [[Your LinkedIn Profile](https://www.linkedin.com/in/timothy-ade)]
+- **LinkedIn**: [[Let's Connect](https://www.linkedin.com/in/timothy-ade)]
 
 ---
 
