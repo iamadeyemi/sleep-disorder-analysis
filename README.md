@@ -74,4 +74,4 @@ Have questions or suggestions? Feel free to reach out to us!
 
 ---
 
-Thank you for visiting the **Sleep Disorder Analysis & Visualization** project! We hope you find it insightful and engaging. Happy analyzing! 😴📊✨
+Thank you for visiting the **Sleep Disorder Analysis & Visualization** project! I hope you find it insightful and engaging. Happy analyzing! 😴📊✨
