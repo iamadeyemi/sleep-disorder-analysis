@@ -67,7 +67,7 @@ Check out some of the stunning visualizations we've created:
 
 ### Sample Visualizations:
 
-![Sleep Quality vs. Duration](./images/sleep_quality_vs_duration.png)
+![Sleep Disorder by Gender](images/newplot.png)
 
 ![Stress Level Impact](./images/stress_level_impact.png)
 
