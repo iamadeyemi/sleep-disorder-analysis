@@ -69,7 +69,7 @@ Check out some of the stunning visualizations we've created:
 
 ![Sleep Disorder by Gender](images/newplot.png)
 
-![Stress Level Impact](./images/stress_level_impact.png)
+![Systolic vs. Diastolic Blood Pressure](images/newplot2.png)
 
 ---
 
