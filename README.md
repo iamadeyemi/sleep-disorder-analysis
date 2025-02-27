@@ -84,9 +84,9 @@ A **Flask-based web application** has been developed to make the analysis more a
 
 ### Sample Visualizations:
 
-![Input Details](./images/sleep_quality_vs_duration.png)
+![Input Details](images/figure%201.png)
 
-![Sleep Details](./images/stress_level_impact.png)
+![Sleep Details](images/figure%202.png)
 
 ### How to Run the Flask App Locally:
 
