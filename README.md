@@ -82,6 +82,12 @@ A **Flask-based web application** has been developed to make the analysis more a
 - Get predictions based on machine learning models.
 - Access insights in a user-friendly dashboard.
 
+### Sample Visualizations:
+
+![Input Details](./images/sleep_quality_vs_duration.png)
+
+![Sleep Details](./images/stress_level_impact.png)
+
 ### How to Run the Flask App Locally:
 
 1. Clone this repository:
